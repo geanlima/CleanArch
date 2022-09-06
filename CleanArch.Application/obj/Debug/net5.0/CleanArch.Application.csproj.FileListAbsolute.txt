@@ -1,0 +1,15 @@
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.deps.json
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.dll
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\ref\CleanArch.Application.dll
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.pdb
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.dll
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.pdb
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.AssemblyReference.cache
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfoInputs.cache
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfo.cs
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CopyComplete
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.dll
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\ref\CleanArch.Application.dll
+D:\Gean\Estudo\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.pdb
